@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black; 
+}
+
+#root{
+    background-color: rgb(103, 236, 192);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+input{
+    font-size: 20px;
+    padding: 8px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+button{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#result{
+    font-size: 20px;
+}
